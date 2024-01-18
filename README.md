@@ -24,7 +24,7 @@ Jika Anda tertarik untuk berkontribusi atau mengembangkan aplikasi lebih lanjut,
 ### Klone Github
 
 ```sh
-cd 8-jan-24-fachry-15.github.io
+git clone https://github.com/revou-fundamental-course/8-jan-24-fachry-15.github.io.git
 ```
 
 ### Membuka Project
