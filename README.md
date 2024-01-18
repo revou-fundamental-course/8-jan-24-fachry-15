@@ -21,8 +21,15 @@ Website ini dikembangkan sebagai bagian dari tugas Revo U Fundamental Course unt
 
 Jika Anda tertarik untuk berkontribusi atau mengembangkan aplikasi lebih lanjut, berikut adalah panduan singkat:
 
+### Klone Github
+
 ```sh
-git clone https://github.com/revou-fundamental-course/8-jan-24-fachry-15.github.io.git
+cd 8-jan-24-fachry-15.github.io
+```
+
+### Membuka Project
+
+```sh
 cd 8-jan-24-fachry-15.github.io
 ```
 
